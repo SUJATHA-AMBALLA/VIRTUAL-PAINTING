@@ -1,5 +1,3 @@
----
-
 # Virtual Painting - Touchless Drawing Application
 
 **Virtual Painting** is an interactive touchless drawing application that allows users to paint on a digital canvas using hand gestures. Developed using Python, OpenCV, and Mediapipe, the project uses real-time hand tracking to detect hand landmarks and allows users to draw in different colors by moving their hand in front of the webcam.
@@ -68,7 +66,6 @@
 ## Contributing
 
 Feel free to fork this project and make contributions. If you have suggestions or improvements, open an issue or submit a pull request.
-
 ---
 
 ## License
